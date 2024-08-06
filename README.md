@@ -102,4 +102,12 @@ The transaction dataset includes the following fields:
 
 𝓕𝓻𝓪𝓾𝓭𝓾𝓵𝓮𝓷𝓽 𝓛𝓪𝓫𝓮𝓵: A Boolean value indicating whether the transaction is flagged as fraudulent (True) or legitimate (False). This label is essential for building and evaluating fraud detection algorithms.
 
+## Keywords
+
+- Credit Card Fraud
+- Fraud Detection
+- Data Analysis
+- Transaction Monitoring
+- Statistical Methods
+
 
