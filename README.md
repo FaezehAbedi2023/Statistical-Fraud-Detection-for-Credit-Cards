@@ -80,7 +80,7 @@ Objective: Implement user interface and integration.
 Develop the test_module, which will serve as the main module containing the user interface. This interface will allow users to interact with and query all functions from the distance_module and statistics_module.
 Ensure that the user interface is intuitive and provides a seamless experience for accessing various functionalities.
 
-𝐃𝐚𝐭𝐚𝐬𝐞𝐭𝐬
+𝐃𝐚𝐭𝐚𝐬𝐞𝐭
 
 The dataset, titled transaction.txt, consists of 10,000 individual transaction records. Each entry provides a comprehensive view of various transaction attributes, ranging from basic identifiers to geographical information. This dataset is structured to assist in analyzing transaction behaviors, detecting potential fraud, and developing machine learning models for fraud detection.
 
