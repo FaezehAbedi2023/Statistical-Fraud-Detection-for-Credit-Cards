@@ -79,3 +79,27 @@ Objective: Implement user interface and integration.
 
 Develop the test_module, which will serve as the main module containing the user interface. This interface will allow users to interact with and query all functions from the distance_module and statistics_module.
 Ensure that the user interface is intuitive and provides a seamless experience for accessing various functionalities.
+
+𝐃𝐚𝐭𝐚𝐬𝐞𝐭𝐬
+
+The dataset, titled transaction.txt, consists of 10,000 individual transaction records. Each entry provides a comprehensive view of various transaction attributes, ranging from basic identifiers to geographical information. This dataset is structured to assist in analyzing transaction behaviors, detecting potential fraud, and developing machine learning models for fraud detection.
+
+𝐃𝐚𝐭𝐚𝐬𝐞𝐭 𝐃𝐞𝐭𝐚𝐢𝐥𝐬
+
+The transaction dataset includes the following fields:
+
+𝓤𝓼𝓮𝓻 𝓘𝓓: A unique identifier for each user, allowing for the differentiation and analysis of transactions across different users.
+
+𝓣𝓻𝓪𝓷𝓼𝓪𝓬𝓽𝓲𝓸𝓷 𝓘𝓓: A unique identifier for each transaction, providing a reference for individual transaction records.
+
+𝓓𝓮𝓼𝓬𝓻𝓲𝓹𝓽𝓲𝓸𝓷: A text field describing the nature or purpose of the transaction. This may include details such as the type of purchase or service involved.
+
+𝓐𝓶𝓸𝓾𝓷𝓽: The monetary value of the transaction, recorded in the applicable currency. This field is crucial for analyzing spending patterns and transaction significance.
+
+𝓧 𝓒𝓸𝓸𝓻𝓭𝓲𝓷𝓪𝓽𝓮: The X coordinate in a Euclidean space representing the transaction's location. Note that these coordinates do not correspond to real-world locations; they are generated for analytical purposes while maintaining user privacy.
+
+𝓨 𝓒𝓸𝓸𝓻𝓭𝓲𝓷𝓪𝓽𝓮: The Y coordinate in a Euclidean space, complementing the X coordinate to provide a complete spatial representation of the transaction's location.
+
+𝓕𝓻𝓪𝓾𝓭𝓾𝓵𝓮𝓷𝓽 𝓛𝓪𝓫𝓮𝓵: A Boolean value indicating whether the transaction is flagged as fraudulent (True) or legitimate (False). This label is essential for building and evaluating fraud detection algorithms.
+
+
